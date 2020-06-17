@@ -61,7 +61,7 @@ public class CategoriaResource {
 	 * Tipo: GET
 	 * Parâmetros: {codigo} 
 	 * Endereço: http://localhost:8080/categorias/{codigo}
-	 *  
+	 * '
 	 */
 	@GetMapping("/{codigo}")
 	public ResponseEntity<Categoria> buscarPeloCodigo(@PathVariable Long codigo) {
