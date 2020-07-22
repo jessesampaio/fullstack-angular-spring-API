@@ -1,2 +1,2 @@
-# fullstack-angular-spring-api
+# FullStack Angular Spring API
  
